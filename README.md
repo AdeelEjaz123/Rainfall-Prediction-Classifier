@@ -148,7 +148,7 @@ rainfall-prediction-classifier/
 
 ### 1. Clone Repository & Setup Environment
 ```bash
-git clone https://github.com/<your-username>/rainfall-prediction-classifier.git
+git clone https://github.com/AdeelEjaz123/rainfall-prediction-classifier.git
 cd rainfall-prediction-classifier
 
 # Option A: Using Python venv
