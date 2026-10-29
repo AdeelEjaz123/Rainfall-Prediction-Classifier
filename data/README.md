@@ -48,3 +48,4 @@ After dropping records with missing features and restricting observations to the
 | `RainYesterday` | Categorical | Did it rain on the previous calendar day? | `'Yes'` / `'No'` |
 | `Season` | Categorical | Australian meteorological season (derived) | Summer, Autumn, Winter, Spring |
 | `RainToday` | Categorical | **Target:** Did it rain on the observation day? | `'Yes'` / `'No'` |
+

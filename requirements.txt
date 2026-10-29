@@ -13,3 +13,4 @@ seaborn>=0.12.0
 
 # Testing & Quality
 pytest>=7.0.0
+

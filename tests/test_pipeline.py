@@ -98,3 +98,4 @@ def test_build_preprocessor_and_pipeline(sample_df):
 
     assert len(preds) == len(X)
     assert set(preds).issubset({"No", "Yes"})
+

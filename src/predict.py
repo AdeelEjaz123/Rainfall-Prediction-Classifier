@@ -89,3 +89,4 @@ if __name__ == "__main__":
     print(f"  Prediction:          {'RAIN (Yes)' if result['rain_predicted'] else 'NO RAIN (No)'}")
     print(f"  Rain Probability:    {result['class_probabilities'].get('Yes', 0.0):.2%}")
     print(f"  Confidence:          {result['confidence']:.2%}")
+

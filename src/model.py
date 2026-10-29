@@ -72,3 +72,4 @@ def create_logistic_regression_pipeline(
     }
 
     return pipeline, param_grid
+

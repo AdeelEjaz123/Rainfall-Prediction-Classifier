@@ -112,3 +112,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     train_model(model_type=args.model, save_path=args.save)
+
